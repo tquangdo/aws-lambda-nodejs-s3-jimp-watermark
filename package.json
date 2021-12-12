@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-s3-jimp-watermark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tquangdo/nodejs-s3-jimp-watermark.git"
+  },
+  "author": "dotq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tquangdo/nodejs-s3-jimp-watermark/issues"
+  },
+  "homepage": "https://github.com/tquangdo/nodejs-s3-jimp-watermark#readme",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
