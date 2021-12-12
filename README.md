@@ -16,6 +16,6 @@
 + log in CloudWatch
 ![log](screenshots/log.png)
 + overview
-![overview](screenshots/overview.jpeg)
+![overview](screenshots/overview.png)
 + connect S3 & Lambda
 ![s3&lambda](screenshots/s3&lambda.png)
