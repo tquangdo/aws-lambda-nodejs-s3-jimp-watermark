@@ -9,6 +9,9 @@
 [vtiblog](https://vtitech.vn/serverless-don-gian-gan-watermark-tu-dong-voi-lambda-s3-va-jimp-plugin/)
 
 ## screenshots
++ upload file in "input" folder on S3
 ![in](screenshots/in.jpeg)
++ output file in "ouput" folder on S3
 ![out](screenshots/out.jpeg)
++ log in CloudWatch
 ![log](screenshots/log.png)
