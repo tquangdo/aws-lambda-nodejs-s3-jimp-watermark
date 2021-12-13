@@ -19,3 +19,4 @@
 ![overview](screenshots/overview.png)
 + connect S3 & Lambda
 ![s3&lambda](screenshots/s3&lambda.png)
++ Quay trở lại AWS, mở Lambda function và add giá trị cho biến BUCKET_NAME vào enviroment variables: key=`BUCKET_NAME` & value=`dtq-jimp`
