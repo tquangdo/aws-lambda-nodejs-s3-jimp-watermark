@@ -1,9 +1,9 @@
-# aws-nodejs-s3-jimp-watermark 🐳
+# aws-lambda-nodejs-s3-jimp-watermark 🐳
 
-![Stars](https://img.shields.io/github/stars/tquangdo/aws-nodejs-s3-jimp-watermark?color=f05340)
-![Issues](https://img.shields.io/github/issues/tquangdo/aws-nodejs-s3-jimp-watermark?color=f05340)
-![Forks](https://img.shields.io/github/forks/tquangdo/aws-nodejs-s3-jimp-watermark?color=f05340)
-[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-nodejs-s3-jimp-watermark/issues/new)
+![Stars](https://img.shields.io/github/stars/tquangdo/aws-lambda-nodejs-s3-jimp-watermark?color=f05340)
+![Issues](https://img.shields.io/github/issues/tquangdo/aws-lambda-nodejs-s3-jimp-watermark?color=f05340)
+![Forks](https://img.shields.io/github/forks/tquangdo/aws-lambda-nodejs-s3-jimp-watermark?color=f05340)
+[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-lambda-nodejs-s3-jimp-watermark/issues/new)
 
 ![overview_](screenshots/overview_.png)
 
